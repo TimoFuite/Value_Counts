@@ -1,3 +1,5 @@
+import pandas as pd
+
 df = pd.read_csv('CSV_HERE')
 
 value_counts_dict = {}
